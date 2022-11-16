@@ -49,36 +49,28 @@ that excite me...
 # Coursework
 <details>
   <summary>Expand for a list of relevant coursework</summary>
-  
-    <details>
-       <summary>Compter Science Courses</summary>
-  
-     * CS 1A  Object-Oriented Programming Methodologies in Java
-     * CS 2A  Object-Oriented Programming Methodologies in C++
-     * CS 1B  Intermediate Software Design in Java
-     * CS 2B  Intermediate Software Design in C++
-     * CS 2C  Advanced Data Structures & Algorithms in C++
-     * CS 31  Introduction to Database Management Systems
+    
+ ### Computer Science Courses  
+     *CS 1A  Object-Oriented Programming Methodologies in Java
+     *CS 2A  Object-Oriented Programming Methodologies in C++
+     *CS 1B  Intermediate Software Design in Java
+     *CS 2B  Intermediate Software Design in C++
+     *CS 2C  Advanced Data Structures & Algorithms in C++
+     *CS 31  Introduction to Database Management Systems
      
-     * CIS 21  Introduction to x86 Processor Assembly Language & Computer Architecture
-     * CIS 18A Introductionto UNIX/LINUX
-     * CIS 18B Advanced UNIX/LINUX
-     * CIS 64E Fundamentals of Large Scale Cloud Computing
-     * CIS 89A Web Page Development    
+     *CIS 21  Introduction to x86 Processor Assembly Language & Computer Architecture
+     *CIS 18A Introductionto UNIX/LINUX
+     *CIS 18B Advanced UNIX/LINUX
+     *CIS 64E Fundamentals of Large Scale Cloud Computing
+     *CIS 89A Web Page Development    
      
-    </details>
- 
-     <details>
-       <summary>Mathmatics Courses</summary>
-      
-     * Math 1A Calculus *derivatives*
-     * Math 1B Calculus *integrals*
-     * Math 1C Calculus *multi-variate*
-     * Math 10 Discrete Mathmatics
-     * Math 2B Linear Algebra 
-     * Phys 4A General Physics 
-
-    </details>
+ ### Mathmatics Courses 
+     *Math 1A Calculus *derivatives*
+     *Math 1B Calculus *integrals*
+     *Math 1C Calculus *multi-variate*
+     *Math 10 Discrete Mathmatics
+     *Math 2B Linear Algebra 
+     *Phys 4A General Physics 
 
 </details>
 
