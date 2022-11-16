@@ -31,25 +31,58 @@ I see this as an area that has tremendous potential to impact many people’s li
 provide meaningful and unique solutions to problems facing individual users and communities.
 
 
-#Career Interests
+
+# Career Interests
 There are a lot of things that get me excited and curious. As a current student the tech
 world still feels full of possibility with numerous paths to follow. Here are some areas 
 that excite me...
 
-1. Machine learning algorithms 
-  * Linear and logistic regression 
-  * Neural networks
-  * NLP
-2. Data visualization techniques 
-3. Python programming
-4. Game development 
+* Machine learning algorithms 
+     * Linear and logistic regression 
+     * Neural networks
+     * NLP
+* Data visualization techniques 
+* Python programming
+* Game development 
 
 
+# Coursework
+<details>
+  <summary>Expand for a list of relevant coursework</summary>
+  
+    <details>
+       <summary>Compter Science Courses</summary>
+  
+     * CS 1A  Object-Oriented Programming Methodologies in Java
+     * CS 2A  Object-Oriented Programming Methodologies in C++
+     * CS 1B  Intermediate Software Design in Java
+     * CS 2B  Intermediate Software Design in C++
+     * CS 2C  Advanced Data Structures & Algorithms in C++
+     * CS 31  Introduction to Database Management Systems
+     
+     * CIS 21  Introduction to x86 Processor Assembly Language & Computer Architecture
+     * CIS 18A Introductionto UNIX/LINUX
+     * CIS 18B Advanced UNIX/LINUX
+     * CIS 64E Fundamentals of Large Scale Cloud Computing
+     * CIS 89A Web Page Development    
+     
+    </details>
+ 
+     <details>
+       <summary>Mathmatics Courses</summary>
+      
+     * Math 1A Calculus *derivatives*
+     * Math 1B Calculus *integrals*
+     * Math 1C Calculus *multi-variate*
+     * Math 10 Discrete Mathmatics
+     * Math 2B Linear Algebra 
+     * Phys 4A General Physics 
+
+    </details>
+
+</details>
 
 
-During the pandemic,
-when schools at all levels went online, I noticed parents and students struggling to adapt to
-new ways of learning. I believe this really highlighted a problem that has existed in education for 
 <!--
 **nicolenadine/nicolenadine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -63,5 +96,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+
+During the pandemic,
+when schools at all levels went online, I noticed parents and students struggling to adapt to
+new ways of learning. I believe this really highlighted a problem that has existed in education for 
 -->
 
