@@ -8,6 +8,7 @@
 4.[ Current & Upcoming Projects](#Projects)
 
 
+
 # Background
 While working in business development I noticed there is sometimes a disconnect between
 stakeholder needs and product development on the engineering side. I thrive on connecting
