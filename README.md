@@ -1,11 +1,20 @@
-### Hi there 👋
+# HELLO!
+
+Five years ago I moved across the country from Ann Arbor, MI to San Jose California. 
+Thisled me to my current adventure into the world of computer science.
+I'm excited to be a part of an industry that is constantly changing with endless 
+possibilities to learn and to create. If this document sparks your curiosity to 
+connect I am open to new projects & collaborations.  
+
+
+[Connect with me on LinkedIn]([Link text Here](https://link-url-here.org))
 
 
 
 1. [Background](#Background)
 2. [Career Interests](#Career Interests)
 3. [Passions](#Passions)
-4.[ Current & Upcoming Projects](#Projects)
+4.[Current & Upcoming Projects](#Projects)
 
 
 
