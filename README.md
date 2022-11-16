@@ -7,14 +7,14 @@ possibilities to learn and to create. If this document sparks your curiosity to
 connect I am open to new projects & collaborations.  
 
 
-[Connect with me on LinkedIn]([Link text Here](https://link-url-here.org))
+[Connect with me on LinkedIn](https://link-url-here.org)
 
 
 
 1. [Background](#Background)
-2. [Career Interests](#Career Interests)
+2. [Career Interests](#CareerInterests)
 3. [Passions](#Passions)
-4.[Current & Upcoming Projects](#Projects)
+4. [Current & Upcoming Projects](#Projects)
 
 
 
