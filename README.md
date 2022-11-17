@@ -14,7 +14,7 @@ connect I am open to new projects & collaborations.
 1. [Background](#Background)
 2. [Career Interests](#CareerInterests)
 3. [Coursework](#Coursework)
-4. [Passions](#Passions)
+4. [Passions & Interests](#Passions)
 5. [Current & Upcoming Projects](#Projects)
 
 
@@ -73,6 +73,21 @@ that excite me...
      *Phys 4A General Physics 
 
 </details>
+
+# Passions
+
+*I love to travel both within the US and abroad. It is a bucket list goal of mine to 
+visit all of the US National Parks. 
+*I am a huge animal lover. Over the summer I did Rover just so I could play with other people's pets
+*I enjoy gaming of all kinds (videogames, board games, tabletop RPG)
+
+During the pandemic, when schools at all levels went online, I noticed parents, teachers and students 
+struggling to adapt to new ways of learning. It saddens me that the recent advancements in learning science
+and technology are taking so long to be adapted into more customized learning experiences. However, I do see 
+a lot of great companies and non-profit organizations working on this issue and it fills me with hope and excitement.
+At some point I would love to work with others who are passionate about educational equity and how technology can
+be used to better serve learners wherever they are in their journey. 
+
 
 
 <!--
