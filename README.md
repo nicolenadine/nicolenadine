@@ -32,7 +32,7 @@ provide meaningful and unique solutions to problems facing individual users and 
 
 
 
-# Career Interests
+# Career 
 There are a lot of things that get me excited and curious. As a current student the tech
 world still feels full of possibility with numerous paths to follow. Here are some areas 
 that excite me...
@@ -88,7 +88,7 @@ create more customized learning experiences that meet the needs of a wider range
 a lot of great companies and non-profit organizations working on this issue. At some point I would love to work 
 with others who are passionate about educational equity and get involved in related projects. 
 
-# Projects (current and upcoming)
+# Projects 
 
 1. Working on an independent study in linear algebra and machine learning. 
    * Over the course of the current academic year I'm working in collaboration with my former 
