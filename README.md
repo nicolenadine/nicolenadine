@@ -15,7 +15,7 @@ connect I am open to new projects & collaborations.
 2. [Career Interests](#CareerInterests)
 3. [Coursework](#Coursework)
 4. [Passions & Interests](#Passions)
-5. [Current & Upcoming Projects](#Projects)
+5. [Current & Upcoming Projects](#Current&UpcomingProjects)
 
 
 
