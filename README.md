@@ -15,7 +15,7 @@ connect I am open to new projects & collaborations.
 2. [Career Interests](#CareerInterests)
 3. [Coursework](#Coursework)
 4. [Passions & Interests](#Passions)
-5. [Current & Upcoming Projects](#Current&UpcomingProjects)
+5. [Current & Upcoming Projects](#CurrentProjects)
 
 
 
@@ -88,7 +88,7 @@ create more customized learning experiences that meet the needs of a wider range
 a lot of great companies and non-profit organizations working on this issue. At some point I would love to work 
 with others who are passionate about educational equity and get involved in related projects. 
 
-# Current & Upcomming Projects
+# Current Projects
 
 1. Working on an independent study in linear algebra and machine learning. 
    * Over the course of the current academic year I'm working in collaboration with my former 
