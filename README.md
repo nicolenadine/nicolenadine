@@ -68,9 +68,9 @@ that excite me...
      *CIS 89A Web Page Development    
      
  ### Mathmatics Courses 
-     *Math 1A Calculus *derivatives*
-     *Math 1B Calculus *integrals*
-     *Math 1C Calculus *multi-variate*
+     *Math 1A Calculus (derivatives)
+     *Math 1B Calculus (integrals)
+     *Math 1C Calculus (multi-variate)
      *Math 10 Discrete Mathmatics
      *Math 2B Linear Algebra 
      *Phys 4A General Physics 
