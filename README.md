@@ -64,7 +64,7 @@ that excite me...
      *CIS 21  Introduction to x86 Processor Assembly Language & Computer Architecture
      *CIS 18A Introductionto UNIX/LINUX
      *CIS 18B Advanced UNIX/LINUX
-     *CIS 64E Fundamentals of Large Scale Cloud Computing
+     *CIS 64E Fundamentals of Large Scale Cloud Computing (Distributed Systems)
      *CIS 89A Web Page Development    
      
  ### Mathmatics Courses 
