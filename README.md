@@ -111,7 +111,7 @@ a lot of great companies and non-profit organizations working on technology base
 
 3. 100 Days of Code: The Complete Python Pro Bootcamp course on Udemy taught by Dr. Angela Yu
    * I've already taken the three course OOP sequence in c++ that Foothill offers. They also teach it in python but it is the exact 
-   material and assignments which would be way to repetitive and not at all time efficient. However, as a data science student 
+   same course material and assignments which would be way too repetitive and not at all time efficient. However, as a data science student 
    interested in machine learning I know that python is the way. So, I'm doing a 3 month ultra learning project to get up to speed in 
    python.
   
