@@ -86,7 +86,7 @@ visit all of the US National Parks.
 
 During the pandemic, when schools at all levels went online, I noticed parents, teachers and students 
 struggling to adapt to new ways of learning. The traditional classroom learning model has been slow to adapt
-to advancements in learning scienceand technology. I am curious about exploring ways that technology can be used to 
+to advancements in learning science and technology. I am curious about exploring ways that technology can be used to 
 create more customized learning experiences that meet the needs of a wider range of students. I'm excited to see 
 a lot of great companies and non-profit organizations working on this issue. At some point I would love to work 
 with others who are passionate about educational equity and get involved in related projects. 
