@@ -84,7 +84,7 @@ visit all of the US National Parks.
 * I am a huge animal lover. Over the summer I did Rover just so I could play with other people's pets
 * I enjoy gaming of all kinds (videogames, board games, tabletop RPG)
 
-During the pandemic, when schools at all levels went online, I noticed parents, teachers and students 
+During the pandemic, when schools at all levels went online, I noticed parents, teachers, and students 
 struggling to adapt to new ways of learning. The traditional classroom learning model has been slow to adapt
 to advancements in learning science and technology. I am curious about exploring ways that machine learning can be 
 used to create more customized learning experiences that meet the needs of a wider range of students. I'm excited to see 
