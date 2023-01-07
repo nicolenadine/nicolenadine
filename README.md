@@ -10,6 +10,9 @@ connect I am open to new projects & collaborations.
 [Connect with me on LinkedIn](https://link-url-here.org)
 
 ### Recent Updates
+
+*January 08th 2023:* Learned about using environment variables to improve the security of my code.
+so I have gone back though and modified older projects to utilize the os module.
 *November 16th 2022:* After lurking for way too long I'm finally diving in and uploading my own 
 stuff here. Please bear with me while I dig up past work and put it up here over the next few weeks.
 
