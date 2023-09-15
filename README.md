@@ -11,8 +11,12 @@ connect I am open to new projects & collaborations.
 
 ### Recent Updates
 
-- *November 16th 2022:* After lurking for way too long I'm finally diving in and uploading my own 
-stuff here. Please bear with me while I dig up past work and put it up here over the next few weeks.
+- *September 15, 2023 At times over the past year I have felt more like a math major than a CS major.
+  All that work paid off though because I have officially transferred to SJSU's Computer Science department
+  where I'm studying Data Science.
+  
+  Finally getting all of the math and lower division requirements out of the way I'm excited to finally have the
+  space in my schedule for building things again. 
 
 # Contents
 1. [Background](#Background)
@@ -55,26 +59,29 @@ that excite me...
   <summary>Expand for a list of relevant coursework</summary>
     
  ### Computer Science Courses  
-     *CS 1A  Object-Oriented Programming Methodologies in Java
-     *CS 2A  Object-Oriented Programming Methodologies in C++
-     *CS 1B  Intermediate Software Design in Java
-     *CS 2B  Intermediate Software Design in C++
-     *CS 2C  Advanced Data Structures & Algorithms in C++
-     *CS 31  Introduction to Database Management Systems
+     *CS 1A   Object-Oriented Programming Methodologies in Java
+     *CS 2A   Object-Oriented Programming Methodologies in C++
+     *CS 1B   Intermediate Software Design in Java
+     *CS 2B   Intermediate Software Design in C++
+     *CS 2C   Advanced Data Structures & Algorithms in C++
+     *CS 31   Introduction to Database Management Systems
+     *CS 48A  Data Visualization
+     *CS 48   Applied Algorithms (current)
      
      *CIS 21  Introduction to x86 Processor Assembly Language & Computer Architecture
-     *CIS 18A Introductionto UNIX/LINUX
+     *CIS 18A Introduction to UNIX/LINUX
      *CIS 18B Advanced UNIX/LINUX
-     *CIS 64E Fundamentals of Large Scale Cloud Computing (Distributed Systems)
+     *CIS 64E Fundamentals of Large-Scale Cloud Computing (Distributed Systems)
      *CIS 89A Web Page Development    
      
- ### Mathmatics Courses 
-     *Math 1A Calculus (derivatives)
-     *Math 1B Calculus (integrals)
-     *Math 1C Calculus (multi-variate)
-     *Math 10 Discrete Mathmatics
-     *Math 2B Linear Algebra 
-     *Phys 4A General Physics 
+ ### Mathematics Courses 
+     *Math 1A    Calculus (derivatives)
+     *Math 1B    Calculus (integrals)
+     *Math 1C    Calculus (multi-variate)
+     *Math 10    Discrete Mathematics
+     *Math 2B    Linear Algebra 
+     *Math 161A  Applied Probability & Statistics 
+     *Phys 4A    General Physics 
 
 </details>
 
@@ -89,32 +96,14 @@ During the pandemic, when schools at all levels went online, I noticed parents, 
 struggling to adapt to new ways of learning. The traditional classroom learning model has been slow to adapt
 to advancements in learning science and technology. I am curious about exploring ways that machine learning can be 
 used to create more customized learning experiences that meet the needs of a wider range of students. I'm excited to see 
-a lot of great companies and non-profit organizations working on technology based solutions to promote education equity.
+a lot of great companies and non-profit organizations working on technology-based solutions to promote education equity.
 
 # Projects 
 
-1. Working on an independent study in linear algebra and machine learning. 
-   * Over the course of the current academic year I'm working in collaboration with my former 
-   linear algebra instructor to develop supplemental cirruculum for his linear algebra class. 
-   Many students who take linear algebra are computer science majors and have expressed an interest 
-   in how linear algebra is applied in the field of computer science. Through my exploration of machine learning
-   I have made a lot of connections between the concepts covered in my linear algebra class and its use in ML
-   such as in data representation and dimmensionality reduction. My goal over this year is to create a bonus module
-   for his class that will let interested students explore applications of concepts learned in class in the field of ML.
-
-2. Participating in the research & service leadership symposium 2023
-   * For this year's symposium I am working on an application that will help STEM students identify instructors
-   that are the best match for their learning style and needs as well as provide both on and off campus resources for support.
-   This is a project I'm passionate about because I believe there are students who have a lot to offer the tech world but who
-   come up against barriers either socioeconomic or disability related. I think there are relativelly inexpensive solutions that
-   can help students to feel more supported and increase their chances of making it to graduation. I look forward to presenting 
-   my project at the symposium spring 2023
-
-3. 100 Days of Code: The Complete Python Pro Bootcamp course on Udemy taught by Dr. Angela Yu
-   * I've already taken the three course OOP sequence in c++ that Foothill offers. They also teach it in python but it is the exact 
-   same course material and assignments which would be way too repetitive and not at all time efficient. However, as a data science student 
-   interested in machine learning I know that python is the way. So, I'm doing a 3 month ultra learning project to get up to speed in 
-   python.
+1. I was accepted into the 2023-2024 cohort of the Undergraduate Research Opportunity Program (UROP) where I will be
+   applying my computer and data science skills in two cross-disciplinary research projects.
+2. I was also accepted into the 2023-2024 cohort of Project Engineering Success where I will be working with Faculty in
+   the Chemical Engineering Department on research in computational neuroscience.
   
 [Back to Contents](#Contents)
 
