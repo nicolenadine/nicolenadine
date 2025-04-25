@@ -84,7 +84,7 @@ that excite me...
 
 * I love to travel both within the US and abroad. It is a bucket list goal of mine to 
 visit all of the US National Parks. 
-* I am a huge animal lover. One summer I signed up a caregiver on Rover just so I could play with other people's pets.
+* I am a huge animal lover. One summer I signed up as a caregiver on Rover just so I could play with other people's pets.
 * I enjoy gaming of all kinds (videogames, board games, tabletop RPG)
 
 During the pandemic, when schools at all levels went online, I noticed parents, teachers, and students 
