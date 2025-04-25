@@ -11,7 +11,7 @@ connect I am open to new projects & collaborations.
 
 ### Recent Updates
 
-- *April 25, 2025 - Currently wrapping up my last semester at SJSU. I just finished my Senior Research Project where I experimented with
+- **April 25, 2025** - Currently wrapping up my last semester at SJSU. I just finished my Senior Research Project where I experimented with
   techniques for Malware Classificaiton Training comparing various image segmentation approaches. Final website will be published and shared shortly.
 
 # Contents
