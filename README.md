@@ -1,4 +1,4 @@
-# HELLO WORLD, I'm Nicole 
+# HELLO, I'm Nicole 
 **AI/ML engineer · Bay Area, CA**
 
 I graduated from SJSU with a degree in Data Science, housed in the CS department, so I came out with both the full CS fundamentals and a specialization in data and machine learning.
@@ -11,14 +11,14 @@ Right now I'm building in the agentic AI space: LangChain, LangGraph, FastAPI, M
 
 ---
 
-## 🔭 Currently exploring
+##  Currently exploring
 `LangChain / LangGraph` `FastAPI` `MCP servers` `Agentic workflows` `RAG systems` `Langfuse / LangSmith` `Open To Collaborate` 
 
 ---
 
-## ✨ Highlights
+##  Highlights
 
-**🔬 Senior research: malware classification**
+**👾 Senior research: malware classification**
 Researched image segmentation techniques to improve computational efficiency in malware classification training. Built from zero domain knowledge in 10 weeks. → [GitHub](https://github.com/nicolenadine/SeniorProject)
 
 **🤖 UROP: RAG with LLMs (2023-2024)**
@@ -31,7 +31,7 @@ A RAG system that lets you ask natural language questions and get accurate, grou
 
 ---
 
-## 🌿 Beyond the code
+##  Beyond the code
 
 A few things I care about and find genuinely interesting, in tech and outside of it.
 
