@@ -1,130 +1,55 @@
-# HELLO! I'm Nicole 
+# HELLO WORLD, I'm Nicole 
+**AI/ML engineer · Bay Area, CA**
 
-Eight years ago I moved across the country from Ann Arbor, MI to San Jose California. 
-A few twists and turns in the road (including a pandemic) led me to my current adventure 
-into the world of computer science. I'm excited to be a part of an industry that is constantly changing with endless 
-possibilities to learn and to create. If this document sparks your curiosity to 
-connect I am open to new projects & collaborations.  
+I graduated from SJSU with a degree in Data Science, housed in the CS department, so I came out with both the full CS fundamentals and a specialization in data and machine learning.
 
+Before that, I spent years working across early-stage startups, mostly in business development and product, wearing a lot of hats and learning how organizations actually make decisions. Getting close to the technical side toward the end of that chapter is what pulled me fully into engineering. It means I tend to think about the whole product, not just the code.
 
-[Connect with me on LinkedIn](https://link-url-here.org)
+Right now I'm building in the agentic AI space: LangChain, LangGraph, FastAPI, MCP servers. Focused on making AI systems that actually work for people.
 
-### Recent Updates
+> A current focus of mine is interpretability and evaluation. Being able to trace what a system is doing and catch when it goes off the rails isn't a nice-to-have, it's what makes agentic AI reliable at scale. I'm incorporating tools like Langfuse and LangSmith into my work, alongside structured logging and LLM critics.
 
-- **April 25, 2025** - Currently wrapping up my last semester at SJSU. I just finished my Senior Research Project where I experimented with
-  techniques for Malware Classificaiton Training comparing various image segmentation approaches. Final website will be published and shared shortly.
+---
 
-# Contents
-1. [Background](#Background)
-2. [Career Interests](#Career)
-3. [Coursework](#Coursework)
-4. [Passions & Interests](#Passions)
-5. [Current Projects](#Projects)
+## 🔭 Currently exploring
+`LangChain / LangGraph` `FastAPI` `MCP servers` `Agentic workflows` `RAG systems` `Langfuse / LangSmith` `Open To Collaborate` 
 
+---
 
-# Background
-While working in business development I noticed there is sometimes a disconnect between
-stakeholder needs and product development on the engineering side. I thrive on connecting
-my technical and analytical side with my desire to provide great experiences and outcomes for
-the end users. I enjoy being able to work cross-functionally and develop a deep understanding 
-of a problem from multiple sides. Eventually, I would like to attend graduate school to
-build my knowledge and skill set in the fields of data science and machine learning. 
-I see this as an area that has tremendous potential to impact many people’s lives and
-provide meaningful and unique solutions to problems facing individual users and communities.
+## ✨ Highlights
 
+**🔬 Senior research: malware classification**
+Researched image segmentation techniques to improve computational efficiency in malware classification training. Built from zero domain knowledge in 10 weeks. → [GitHub](https://github.com/nicolenadine/SeniorProject)
 
-# Career 
-There are a lot of things that get me excited and curious. As a current student the tech
-world still feels full of possibility with numerous paths to follow. Here are some areas 
-that excite me...
+**🤖 UROP: RAG with LLMs (2023-2024)**
+Selected for SJSU's Undergraduate Research Opportunity Program. Worked on a team building ChatGPT-powered chatbots using Retrieval Augmented Generation tuned on proprietary business data.
 
-* Machine learning: CNNs, NLP
-* Data visualization techniques 
-* Python programming
-* Game development 
+**🎲 Board game rulebook RAG** *(in progress)*
+A RAG system that lets you ask natural language questions and get accurate, grounded answers straight from a game's rulebook. The interesting challenge: board game rulebooks are notoriously dense and multi-modal, mixing prose, tables, diagrams and edge-case exceptions. The focus is on reliable parsing of that messy structure, retrieval that handles ambiguous or compound rules questions, and evaluation pipelines to make sure answers are actually correct, not just confident.
 
-# Coursework
-<details>
-  <summary>Expand for a list of relevant coursework</summary>
-    
- ### Computer Science Courses  
-     *CS 1A    Object-Oriented Programming Methodologies in Java
-     *CS 2A    Object-Oriented Programming Methodologies in C++
-     *CS 1B    Intermediate Software Design in Java
-     *CS 2B    Intermediate Software Design in C++
-     *CS 2C    Advanced Data Structures & Algorithms in C++
-     *CS 48    Applied Algorithms 
-     *CS 122   Advanced Programming with Python
-     *CS 131   Processing Big Data - Tools and Techniques
-     *CS 133   Data Visualization
-     *CS 146   Data Structures and Algorithms 
-     *CS 151   Object-Oriented Design
-     *CS 156   Intro to Artificial Intelligence 
-     *CS 157A  Intro to Database Management Systems 
-     *CS 171   Intro to Machine Learning 
-     
-     *CIS 21   Introduction to x86 Processor Assembly Language & Computer Architecture
-     *CIS 18A  Introduction to UNIX/LINUX
-     *CIS 18B  Advanced UNIX/LINUX
-     *CIS 64E  Fundamentals of Large-Scale Cloud Computing (Distributed Systems) 
-     
- ### Mathematics Courses 
-     *Math 1A    Calculus (derivatives)
-     *Math 1B    Calculus (integrals)
-     *Math 1C    Calculus (multi-variate)
-     *Math 10    Discrete Mathematics
-     *Math 2B    Linear Algebra 
-     *Math 161A  Applied Probability & Statistics 
-     *Math 167R  Statistical Programming in R
-     *Phys 4A    General Physics 
+*Inspired by hundreds of game nights with friends and one too many mid-game rules debates.*
 
-</details>
+---
 
-# Passions
+## 🌿 Beyond the code
 
-* I love to travel both within the US and abroad. It is a bucket list goal of mine to 
-visit all of the US National Parks. 
-* I am a huge animal lover. One summer I signed up as a caregiver on Rover just so I could play with other people's pets.
-* I enjoy gaming of all kinds (videogames, board games, tabletop RPG)
+A few things I care about and find genuinely interesting, in tech and outside of it.
 
-During the pandemic, when schools at all levels went online, I noticed parents, teachers, and students 
-struggling to adapt to new ways of learning. The traditional classroom learning model has been slow to adapt
-to advancements in learning science and technology. I am curious about exploring ways that machine learning can be 
-used to create more customized learning experiences that meet the needs of a wider range of students. I'm excited to see 
-a lot of great companies and non-profit organizations working on technology-based solutions to promote education equity.
+**🌱 Gardening, composting & soil health**
+There's something satisfying about working with systems that take time and patience. Composting has the same energy as debugging. Currently obsessed with soil revitalization.
 
-# Projects 
+**🎲 Game fanatic**
+150+ game collection and counting. I love the strategy, the social dynamics, and the absurd variety of mechanisms game designers come up with. Active in multiple TTRPG campaigns and known to reach for a PS5 or Switch controller to unwind.
 
-1. Check out my senior project on using image segmentation to improve computational efficiency
-   in malware classification training [here](https://github.com/nicolenadine/SeniorProject) The most exciting part of this
-   project for me was that I had no prior knowledge in the subject area and had to really challenge myself to quickly build
-   foundational knowledge required to produce a viable project in 10 weeks.
-   
-1. I was accepted into the 2023-2024 cohort of the Undergraduate Research Opportunity Program (UROP) where I was involved in a team
-   doing research into using Retrieval Augmented Generation (RAG) with ChatGPT to create chatbots highly tuned to make use of
-   proprietary business data
+**🐾 Animal household**
+Dog mom of 1, cat mom of 2. 
 
-  
-[Back to Contents](#Contents)
+**🏕️ US National Parks**
+Working through the full list. Always planning the next one.
 
-<!--
-**nicolenadine/nicolenadine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**💡 Tech & education**
+One of many areas I find compelling. I think ML has real potential to help create more equitable, personalized learning experiences, and I love that people are actually building toward that. Open to collaborating on open-source projects in this space.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
-
-During the pandemic,
-when schools at all levels went online, I noticed parents and students struggling to adapt to
-new ways of learning. I believe this really highlighted a problem that has existed in education for 
--->
-
+Open to new projects, collaborations, and opportunities in AI/DS/ML. **Let's connect →** [LinkedIn](https://www.linkedin.com/in/nicolenwitt/)
