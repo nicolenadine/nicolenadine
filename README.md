@@ -12,7 +12,7 @@ Right now I'm building in the agentic AI space: LangChain, LangGraph, FastAPI, M
 ---
 
 ##  Currently exploring
-`LangChain / LangGraph` `FastAPI` `MCP servers` `Agentic workflows` `RAG systems` `Langfuse / LangSmith` `Open To Collaborate` 
+`LangChain / LangGraph` `FastAPI` `MCP servers` `Agentic workflows` `RAG systems` `Langfuse / LangSmith` `Open-Source Collaborations` 
 
 ---
 
